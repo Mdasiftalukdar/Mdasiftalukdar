@@ -3,16 +3,15 @@
 
 ## My GitHub Stats 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahanHasan&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdasiftalukdar&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shahanHasan&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdasiftalukdar&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[website]: https://shahanhasan.github.io/
-[LinkedIn]: https://www.linkedin.com/in/shahan-hasan-141337142/
-[Stack-Overflow]: https://stackoverflow.com/users/12205044/shahan-hasan
-[email]: mailto:shahan.hasan101294@gmail.com
+[website]: https://Mdasiftalukdar.github.io/
+[LinkedIn]: https://www.linkedin.com/in/md-asif-talukdar-20a849206/
+[email]: mailto:md.asiftalukdar@g.bracu.ac.bd
 
 
 
