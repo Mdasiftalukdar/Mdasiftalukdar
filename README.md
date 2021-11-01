@@ -2,9 +2,9 @@
 
 ## I'm an AI enthusiast and a Computer Engineer.
 
-- ✨ I'm a graduate of Bracu University Bangladesh from Department of Computer Science and engineering. 
+- ✨ I'm a graduate of Bracu University Bangladesh from the Department of Computer Science and engineering. 
 - 🔭 I'm currently independently researching Machine Learning and Deep neural network projects.
-- 🌱 I have enthusiasm Problems solving tasks. I like maths and logic-based studies.
+- 🌱 I have enthusiasm in Problem-solving tasks. I like maths and logic-based studies.
 - 🐍 My research interests include Blockchain, machine learning, deep learning, computer vision.
 - ⚡ I am a movie freak, I watch movies and series of all genres (This medium of entertainment is an educational experience for me) 
 
@@ -49,6 +49,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)][website]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][LinkedIn]
+
+
+
+
 
 
 
