@@ -11,9 +11,9 @@
 
 ## My GitHub Stats 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdasiftalukdar&hide=java,html,css&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdasiftalukdar&hide=java,html,css&theme=highcontrast)]
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdasiftalukdar&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdasiftalukdar&theme=dracula)]
 
 
 ## Programming Languages I worked with :
