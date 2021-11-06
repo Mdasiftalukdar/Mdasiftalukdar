@@ -11,7 +11,7 @@
 
 ## My GitHub Stats 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdasiftalukdar&hide=java,html,css&theme=highcontrast)](https://github.com/Mdasiftalukdar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdasiftalukdar&hide=&theme=highcontrast)](https://github.com/Mdasiftalukdar)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdasiftalukdar&theme=dracula)]
 
