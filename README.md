@@ -2,7 +2,7 @@
 
 ## I'm an AI enthusiast and a Computer Engineer.
 
-- ✨ I'm a graduate of Bracu University Bangladesh from the Department of Computer Science and engineering. 
+- ✨ I'm a graduate of Brac University Bangladesh from the Department of Computer Science and engineering. 
 - 🔭 I'm currently independently researching Machine Learning and Deep neural network projects.
 - 🌱 I have enthusiasm in Problem-solving tasks. I like maths and logic-based studies.
 - 🐍 My research interests include Blockchain, machine learning, deep learning, computer vision.
