@@ -4,9 +4,9 @@
 
 - ✨ I'm a graduate of BRAC University Bangladesh from the Department of Computer Science and engineering. 
 - 🔭 I'm currently independently researching Machine Learning and Deep neural network projects.
-- 🌱 I have enthusiasm in Problem-solving tasks. I like maths and logic-based studies.
+- 🌱 I have enthusiasm for Problem-solving tasks. I like maths and logic-based studies.
 - 🐍 My research interests include Blockchain, machine learning, deep learning, computer vision.
-- ⚡ I am a movie freak, I watch movies and series of all genres (This medium of entertainment is an educational experience for me) 
+- ⚡ I am a movie freak; I watch movies and series of all genres (This medium of entertainment is an educational experience for me) 
 
 
 ## My GitHub Stats 💻
