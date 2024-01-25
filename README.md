@@ -1,6 +1,6 @@
 # Hi I am Asif 👋
 
-## I'm an AI enthusiast, and learner, and wanna be a researcher.
+## I'm an AI enthusiast, and a learner, and wanna be a researcher.
 
 - ✨ I am currently pursuing my Master's in Computer Science at the University of Lethbridge.
 - 🌱 I was an Adjunct lecturer at the department of CSE, BRAC University, and also served in the position of IELTS instructor for a few months at an organization.
