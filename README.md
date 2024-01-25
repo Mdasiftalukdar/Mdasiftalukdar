@@ -1,11 +1,13 @@
 # Hi I am Asif 👋
 
-## I'm an AI enthusiast and a Computer Engineer.
+## I'm an AI enthusiast, and learner, and wanna be a researcher.
 
-- ✨ I'm a graduate of BRAC University Bangladesh from the Department of Computer Science and engineering. 
-- 🔭 I'm currently independently researching Machine Learning and Deep neural network projects.
+- ✨ I am currently pursuing my Master's in Computer Science at the University of Lethbridge.
+- 🌱 I was an Adjunct lecturer at the department of CSE, BRAC University, and also served in the position of IELTS instructor for a few months at an organization.
+- ✨ I did my Computer Science and Engineering undergraduate at BRAC University. 
+- 🔭 I'm researching Machine Learning and Deep neural network projects.
 - 🌱 I have enthusiasm for Problem-solving tasks. I like maths and logic-based studies.
-- 🐍 My research interests include Blockchain, machine learning, deep learning, computer vision and NLP.
+- 🐍 My research interests include Blockchain, machine learning, deep learning, computer vision, and NLP.
 - ⚡ I am a movie freak; I watch movies and series of all genres (This medium of entertainment is an educational experience for me) 
 
 
@@ -42,8 +44,8 @@
 
 [website]: https://Mdasiftalukdar.github.io/
 [LinkedIn]: https://www.linkedin.com/in/md-asif-talukdar-20a849206/
+[email]: mailto:mdasiftalukdar11@gmail.com
 [email]: mailto:md.asiftalukdar@g.bracu.ac.bd
-
 ## Connect With Me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]
