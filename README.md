@@ -4,7 +4,7 @@
 
 - ✨ I am pursuing my Master's in Computer Science at the University of Lethbridge.
 - 🌱 I was an Adjunct lecturer at the department of CSE, BRAC University, and also served as an IELTS instructor for a few months at an organization.
-- ✨ I did my Computer Science and Engineering undergraduate at BRAC University. 
+- ✨ I did my Computer Science and Engineering undergrad at BRAC University. 
 - 🔭 I have research works on domains like Blockchain, Machine Learning, and Deep neural networks.
 - 🌱 I have enthusiasm for Problem-solving tasks. I like maths and logic-based studies.
 - 🐍 My research interests include Blockchain, machine learning, deep learning, computer vision, and NLP.
