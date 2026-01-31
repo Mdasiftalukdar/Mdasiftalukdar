@@ -1,12 +1,12 @@
 # Hi I am Asif 👋
 
-## I'm an AI enthusiast, and learner, and wanna be a researcher.
+## I'm an AI enthusiast, a learner, and a researcher.
 
-- ✨ I am pursuing my Master's in Computer Science at the University of Lethbridge.
-- 🌱 I was an Adjunct lecturer at the department of CSE, BRAC University, and also served as an IELTS instructor for a few months at an organization.
+- ✨ I recently completed my Master's in Computer Science at the University of Lethbridge.
+- 🌱 I was an Adjunct lecturer at the Department of CSE, BRAC University, and also served as an IELTS instructor for a few months at an organization.
 - ✨ I did my Computer Science and Engineering undergrad at BRAC University. 
-- 🔭 I have research works on domains like Blockchain, Machine Learning, and Deep neural networks.
-- 🌱 I have enthusiasm for Problem-solving tasks. I like maths and logic-based studies.
+- 🔭 I have research work on domains like Blockchain, Machine Learning, and Deep Neural Networks.
+- 🌱 I have enthusiasm for problem-solving tasks. I like maths and logic-based studies.
 - 🐍 My research interests include Blockchain, machine learning, deep learning, computer vision, and NLP.
 - ⚡ I am a movie freak; I watch movies and series of all genres (This medium of entertainment is an educational experience for me) 
 
