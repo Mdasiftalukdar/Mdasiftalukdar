@@ -4,11 +4,11 @@
 
 I build scalable backends and AI-driven systems. I recently completed my Master's at the University of Lethbridge, and I have 3+ years of experience designing APIs, distributed architectures, and ML pipelines with Python, Node.js, and cloud-native infrastructure. My research background is in combinatorial optimization and deep learning, with peer-reviewed work in Springer and IEEE.
 
-- 🔭 **Latest build:** [**HireSignal**](https://hire-signal-gilt.vercel.app/) — a live, full-stack AI resume analyzer (RAG + LangGraph agents, FastAPI, Kafka, Next.js), deployed end to end with CI/CD → [source](https://github.com/Mdasiftalukdar/HireSignal)
+- 🔭 **Latest build:** [**HireSignal**](https://hire-signal-gilt.vercel.app/): a live, full-stack AI resume analyzer (RAG + LangGraph agents, FastAPI, Kafka, Next.js), deployed end-to-end with CI/CD → [source](https://github.com/Mdasiftalukdar/HireSignal)
 - 🧠 **Focus:** backend systems, RAG & agentic LLM workflows, event-driven architectures, cloud-native deployment
 - 🌱 **Currently exploring:** Kubernetes orchestration and MLOps
 - 📫 **Reach me:** mdasiftalukdar11@gmail.com
-- ⚡ **Fun fact:** I watch films across every genre — I treat it as an education in storytelling.
+- ⚡ **Fun fact:** I watch films across every genre. I treat it as an education in storytelling.
 
 ## 🛠️ Tech Stack
 
